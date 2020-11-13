@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A few R scripts to analyze and plot geographic data.
+A few R scripts to make simple stats and plots.
 
 ## Files
 
